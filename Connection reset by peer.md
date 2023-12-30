@@ -45,5 +45,5 @@ webclient idle timeout 설정 등의 조정이 필요.
 - <https://lasel.kr/archives/740>
 - <https://alden-kang.tistory.com/48>
 - [Connection Reset by Peer 문제 해결](https://velog.io/@youngerjesus/Connection-Reset-by-Peer-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
-- [[ 네트워크 쉽게 이해하기 22편 ] TCP 3 Way-Handshake & 4 Way-Handshake]([ 네트워크 쉽게 이해하기 22편 ] TCP 3 Way-Handshake & 4 Way-Handshake)
+- [[ 네트워크 쉽게 이해하기 22편 ] TCP 3 Way-Handshake & 4 Way-Handshake](https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-22%ED%8E%B8-TCP-3-WayHandshake-4-WayHandshake)
 - https://skstp35.tistory.com/250#google_vignette
