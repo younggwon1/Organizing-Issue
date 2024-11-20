@@ -31,9 +31,9 @@ A Service -> B Service 시, Client 단(A Service) 에서 **Connection reset by p
 
 ## 2. 해결
 
-webclient idle timeout 설정 등의 조정이 필요.
+WebClient Idle Timeout 설정 등의 조정이 필요.
 
-- Target Service 의 idle time, 초당 요청 수 등을 확인하여 webclient idle timeout 설정 등의 조정이 필요하다.
+- Target Service 의 Idle Time, 초당 요청 수 등을 확인하여 WebClient Idle Timeout 설정 등의 조정이 필요하다.
 
 [#1774 Connection reset by peer exception](https://github.com/reactor/reactor-netty/issues/1774)
 
